@@ -1,0 +1,62 @@
+<annotation>
+	<folder>images</folder>
+	<filename>2247_kapal_nelayan_jpg.rf.bac36fdd513d1dc4beb153aa54121e3d.jpg</filename>
+	<path>/mnt/c/Users/microsoft/Downloads/Compressed/kapal nelayan 2.v1i.yolov5-obb/train/images/2247_kapal_nelayan_jpg.rf.bac36fdd513d1dc4beb153aa54121e3d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fishing boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>221</ymin>
+			<xmax>205</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fishing boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>311</xmin>
+			<ymin>210</ymin>
+			<xmax>351</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fishing boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>351</xmin>
+			<ymin>213</ymin>
+			<xmax>409</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fishing boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>181</ymin>
+			<xmax>78</xmax>
+			<ymax>193</ymax>
+		</bndbox>
+	</object>
+</annotation>

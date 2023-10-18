@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>3m-3-8m-4-3m-open-small_jpg.rf.01114aa28165d035682b529c57fee65a.jpg</filename>
+	<path>/mnt/c/Users/microsoft/Downloads/Compressed/kapal nelayan 2.v1i.yolov5-obb/train/images/3m-3-8m-4-3m-open-small_jpg.rf.01114aa28165d035682b529c57fee65a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>120</ymin>
+			<xmax>338</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+</annotation>

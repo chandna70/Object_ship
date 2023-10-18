@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Pict</folder>
+	<filename>08112012371-kecil_jpg.rf.c040f397b91232463ea73688fd04dd06.jpg</filename>
+	<path>/mnt/d/Workspace for Coding/Project Detection of Marine Object/Dataset/Pict/08112012371-kecil_jpg.rf.c040f397b91232463ea73688fd04dd06.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>173</ymin>
+			<xmax>384</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fishing boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>244</ymin>
+			<xmax>410</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

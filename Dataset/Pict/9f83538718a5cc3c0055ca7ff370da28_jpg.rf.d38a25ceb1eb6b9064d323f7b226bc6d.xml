@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pict</folder>
+	<filename>9f83538718a5cc3c0055ca7ff370da28_jpg.rf.d38a25ceb1eb6b9064d323f7b226bc6d.jpg</filename>
+	<path>/mnt/d/Workspace for Coding/Project Detection of Marine Object/Dataset/Pict/9f83538718a5cc3c0055ca7ff370da28_jpg.rf.d38a25ceb1eb6b9064d323f7b226bc6d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>182</ymin>
+			<xmax>249</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+</annotation>

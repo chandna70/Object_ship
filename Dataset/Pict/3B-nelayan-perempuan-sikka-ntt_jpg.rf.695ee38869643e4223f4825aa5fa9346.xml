@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Pict</folder>
+	<filename>3B-nelayan-perempuan-sikka-ntt_jpg.rf.695ee38869643e4223f4825aa5fa9346.jpg</filename>
+	<path>/mnt/d/Workspace for Coding/Project Detection of Marine Object/Dataset/Pict/3B-nelayan-perempuan-sikka-ntt_jpg.rf.695ee38869643e4223f4825aa5fa9346.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>332</ymin>
+			<xmax>395</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fishing boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>255</ymin>
+			<xmax>218</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

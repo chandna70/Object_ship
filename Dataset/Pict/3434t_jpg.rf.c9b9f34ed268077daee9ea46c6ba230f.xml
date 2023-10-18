@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pict</folder>
+	<filename>3434t_jpg.rf.c9b9f34ed268077daee9ea46c6ba230f.jpg</filename>
+	<path>/mnt/d/Workspace for Coding/Project Detection of Marine Object/Dataset/Pict/3434t_jpg.rf.c9b9f34ed268077daee9ea46c6ba230f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lighthouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>83</ymin>
+			<xmax>244</xmax>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+</annotation>

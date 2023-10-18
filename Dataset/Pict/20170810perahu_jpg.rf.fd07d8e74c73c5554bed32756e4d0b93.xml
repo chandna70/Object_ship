@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20170810perahu_jpg.rf.fd07d8e74c73c5554bed32756e4d0b93.jpg</filename>
+	<path>/mnt/c/Users/microsoft/Downloads/Compressed/kapal nelayan 2.v1i.yolov5-obb/train/images/20170810perahu_jpg.rf.fd07d8e74c73c5554bed32756e4d0b93.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fishing boat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>133</ymin>
+			<xmax>349</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

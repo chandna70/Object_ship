@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pict</folder>
+	<filename>5dbce621d6551-kapal-nelayan-yang-dia_jpg.rf.cc39caffe1524d7845512e20c5704c15.jpg</filename>
+	<path>/mnt/d/Workspace for Coding/Project Detection of Marine Object/Dataset/Pict/5dbce621d6551-kapal-nelayan-yang-dia_jpg.rf.cc39caffe1524d7845512e20c5704c15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fishing boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>196</ymin>
+			<xmax>406</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

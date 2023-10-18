@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pict</folder>
+	<filename>1200px-Aerial_photograph_60D_2012_05_13_8760_DxO_retusche_jpg.rf.a6d1cfe855ff9e672f7a68d0ded7c5b3.jpg</filename>
+	<path>/mnt/d/Workspace for Coding/Project Detection of Marine Object/Dataset/Pict/1200px-Aerial_photograph_60D_2012_05_13_8760_DxO_retusche_jpg.rf.a6d1cfe855ff9e672f7a68d0ded7c5b3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lighthouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>40</ymin>
+			<xmax>285</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>

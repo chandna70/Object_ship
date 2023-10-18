@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Pict</folder>
+	<filename>0afa92fc0f8a9cf051bf2961b06ac56b_XL_jpg.rf.27d9d75c7657c316259fde69208d7365.jpg</filename>
+	<path>/mnt/d/Workspace for Coding/Project Detection of Marine Object/Dataset/Pict/0afa92fc0f8a9cf051bf2961b06ac56b_XL_jpg.rf.27d9d75c7657c316259fde69208d7365.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fishing boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>24</ymin>
+			<xmax>406</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fishing boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>63</ymin>
+			<xmax>234</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fishing boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>113</ymin>
+			<xmax>109</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>98449-ilustrasi-kapal-nelayan-antara-1_jpg.rf.fdfbaddee1d3795989ac53a1a64e3e74.jpg</filename>
+	<path>/mnt/c/Users/microsoft/Downloads/Compressed/kapal nelayan 2.v1i.yolov5-obb/train/images/98449-ilustrasi-kapal-nelayan-antara-1_jpg.rf.fdfbaddee1d3795989ac53a1a64e3e74.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fishing boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>155</ymin>
+			<xmax>407</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

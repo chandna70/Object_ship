@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Pict</folder>
+	<filename>7-3-640x360_jpg.rf.bcf7d72fccfe6cb6c387afe932fd24cd.jpg</filename>
+	<path>/mnt/d/Workspace for Coding/Project Detection of Marine Object/Dataset/Pict/7-3-640x360_jpg.rf.bcf7d72fccfe6cb6c387afe932fd24cd.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fishing boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>210</ymin>
+			<xmax>363</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>262</ymin>
+			<xmax>200</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>
