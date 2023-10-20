@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>container_ship-15_jpg.rf.4d5aed823a441001274895f6a1ef02b3.jpg</filename>
+	<path>/mnt/c/Users/microsoft/Pictures/train/container_ship-15_jpg.rf.4d5aed823a441001274895f6a1ef02b3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cargo ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>184</ymin>
+			<xmax>630</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>
